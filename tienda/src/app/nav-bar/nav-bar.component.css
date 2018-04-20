@@ -1,0 +1,19 @@
+.badge{
+background-color: green;
+color: white;
+border-radius: 100%;
+
+min-width: 1rem!important;
+}
+.material-icons{
+  display: inline!important;
+}
+
+.nav-wrapper{
+	background-color: #04B4AE !important;
+}
+
+.brand-logo{
+	padding-left: 50px;
+}
+
